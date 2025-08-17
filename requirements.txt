@@ -2,4 +2,4 @@ langchain
 langchain-community
 langchain_core
 langgraph
-langchain_google_generativeai
+langchain-google-genai
