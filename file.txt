@@ -1,0 +1,32 @@
+OCI Document Understanding: Unleashing the Power of Multilingual Document Analysis
+August 13, 2025 | 2 minute read
+
+Guy Fogel
+Senior Principal Product Manager
+We are pleased to announce the eagerly anticipated Version 2.0 of OCI Document Understanding, a new advancement in document analysis and comprehension. This version helps our customers remove language barriers by offering support within the service for 10 additional, highly requested languages.
+
+Multilingual Support: Breaking Down Language Barriers
+
+A key highlight of OCI Document Understanding v2.0 is its multilingual capability. We have expanded our optical character recognition (OCR) and key-value (KV) invoice pre-trained models to include 12 languages: Arabic, Chinese, English, French, German, Hebrew, Japanese, Portuguese, Russian, Spanish, Dutch, and Ukrainian. This empowers businesses to tap into non-English markets and provide a more seamless, language-agnostic document processing experience
+
+Multilingual for OCR and KV (Invoice) models
+Multilingual for OCR and KV (Invoice) models
+Dedicated Endpoints: Unlocking Performance Excellence
+
+Recognizing the varied performance needs of our customers, we have introduced dedicated, private endpoints. This robust feature enables users to create custom endpoints, providing them with enhanced control and the capacity to meet significant throughput demands. Dedicated endpoints allow users to refine their document understanding processes, reduce latency, and fully leverage the capabilities of OCI Document Understanding.
+
+Deploy any model on a dedicated endpoint
+Deploy any model on a dedicated endpoint
+API Enhancements: More Control and Flexibility
+
+We've also added page range functionality to our API based on customer feedback. This feature allows users to select specific pages for processing, enabling them to focus on the relevant parts of a document and reduce costs associated with unnecessary OCR processes.
+
+Simplify Data Annotation for Custom Models – Label Studio
+
+Finally, we’ve added support for Label Studio file formats, enhancing the annotation process for our custom models. Label Studio’s intuitive design helps simplify the creation of annotated datasets for both custom key-value extraction and classification models.
+
+Learn more about OCI Document Understanding here, or demo it for yourself in the AI Solutions Hub.
+
+
+Guy Fogel
+Senior Principal Product Manager
